@@ -1,0 +1,4 @@
+slack-bolt
+PyGitHub~=1.55
+requests~=2.26.0
+python-dateutil~=2.7.3
