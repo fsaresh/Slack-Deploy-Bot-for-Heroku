@@ -1,6 +1,6 @@
 # SlackHerokuDeployerBot
 ## Intent 
-Hackathon 2021 entry for using a Slack command to schedule a deployment reminder, list commits since the last deploy, and more by using the `Heroku Deploy App` (display name `Handy Dandy Heroku Deploy Helper`).
+Use a Slack command to schedule a deployment reminder, list commits since the last deploy, and more by using the `Heroku Deploy App` (display name `Handy Dandy Heroku Deploy Helper`).
 
 
 ## Commands
